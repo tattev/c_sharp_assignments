@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ACA\tasks\ComplexNumber\bin\Debug\net7.0\ComplexNumber.exe
+C:\Users\user\Desktop\ACA\tasks\ComplexNumber\bin\Debug\net7.0\ComplexNumber.deps.json
+C:\Users\user\Desktop\ACA\tasks\ComplexNumber\bin\Debug\net7.0\ComplexNumber.runtimeconfig.json
+C:\Users\user\Desktop\ACA\tasks\ComplexNumber\bin\Debug\net7.0\ComplexNumber.dll
+C:\Users\user\Desktop\ACA\tasks\ComplexNumber\bin\Debug\net7.0\ComplexNumber.pdb
+C:\Users\user\Desktop\ACA\tasks\ComplexNumber\obj\Debug\net7.0\ComplexNumber.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ACA\tasks\ComplexNumber\obj\Debug\net7.0\ComplexNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ACA\tasks\ComplexNumber\obj\Debug\net7.0\ComplexNumber.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ACA\tasks\ComplexNumber\obj\Debug\net7.0\ComplexNumber.AssemblyInfo.cs
+C:\Users\user\Desktop\ACA\tasks\ComplexNumber\obj\Debug\net7.0\ComplexNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ACA\tasks\ComplexNumber\obj\Debug\net7.0\ComplexNumber.dll
+C:\Users\user\Desktop\ACA\tasks\ComplexNumber\obj\Debug\net7.0\refint\ComplexNumber.dll
+C:\Users\user\Desktop\ACA\tasks\ComplexNumber\obj\Debug\net7.0\ComplexNumber.pdb
+C:\Users\user\Desktop\ACA\tasks\ComplexNumber\obj\Debug\net7.0\ComplexNumber.genruntimeconfig.cache
+C:\Users\user\Desktop\ACA\tasks\ComplexNumber\obj\Debug\net7.0\ref\ComplexNumber.dll

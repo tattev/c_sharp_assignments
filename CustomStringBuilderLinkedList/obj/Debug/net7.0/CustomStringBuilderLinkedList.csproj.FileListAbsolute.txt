@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ACA\tasks\CustomStringBuilderLinkedList\obj\Debug\net7.0\CustomStringBuilderLinkedList.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ACA\tasks\CustomStringBuilderLinkedList\obj\Debug\net7.0\CustomStringBuilderLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ACA\tasks\CustomStringBuilderLinkedList\obj\Debug\net7.0\CustomStringBuilderLinkedList.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ACA\tasks\CustomStringBuilderLinkedList\obj\Debug\net7.0\CustomStringBuilderLinkedList.AssemblyInfo.cs
+C:\Users\user\Desktop\ACA\tasks\CustomStringBuilderLinkedList\obj\Debug\net7.0\CustomStringBuilderLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ACA\tasks\CustomStringBuilderLinkedList\bin\Debug\net7.0\CustomStringBuilderLinkedList.exe
+C:\Users\user\Desktop\ACA\tasks\CustomStringBuilderLinkedList\bin\Debug\net7.0\CustomStringBuilderLinkedList.deps.json
+C:\Users\user\Desktop\ACA\tasks\CustomStringBuilderLinkedList\bin\Debug\net7.0\CustomStringBuilderLinkedList.runtimeconfig.json
+C:\Users\user\Desktop\ACA\tasks\CustomStringBuilderLinkedList\bin\Debug\net7.0\CustomStringBuilderLinkedList.dll
+C:\Users\user\Desktop\ACA\tasks\CustomStringBuilderLinkedList\bin\Debug\net7.0\CustomStringBuilderLinkedList.pdb
+C:\Users\user\Desktop\ACA\tasks\CustomStringBuilderLinkedList\obj\Debug\net7.0\CustomStringBuilderLinkedList.dll
+C:\Users\user\Desktop\ACA\tasks\CustomStringBuilderLinkedList\obj\Debug\net7.0\refint\CustomStringBuilderLinkedList.dll
+C:\Users\user\Desktop\ACA\tasks\CustomStringBuilderLinkedList\obj\Debug\net7.0\CustomStringBuilderLinkedList.pdb
+C:\Users\user\Desktop\ACA\tasks\CustomStringBuilderLinkedList\obj\Debug\net7.0\CustomStringBuilderLinkedList.genruntimeconfig.cache
+C:\Users\user\Desktop\ACA\tasks\CustomStringBuilderLinkedList\obj\Debug\net7.0\ref\CustomStringBuilderLinkedList.dll
